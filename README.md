@@ -75,7 +75,7 @@ flowchart TB
 │   ├── common/ model/ sql/
 │   ├── docker-compose.yaml          # MySQL / Redis / Milvus 一键启动
 │   └── ARCHITECTURE_REFACTOR.md     # 单体 → 微服务改造方案
-└── docs/             # 系统设计说明、总体设计、答辩 PPT 等文档
+└── docs/             # 系统设计说明、总体设计、演示 PPT 等文档
 ```
 
 ## 🚀 快速开始
